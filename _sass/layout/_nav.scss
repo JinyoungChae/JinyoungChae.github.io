@@ -39,6 +39,7 @@
   outline: 0;
   border-bottom: 0;
   color: $heading-color;
+  
 
   &:hover {
     color: $heading-color;
@@ -47,6 +48,7 @@
 
   .header__logo--container {
     width: 58px;
+    background-repeat: no-repeat;
 
     .logo {
       fill: currentColor;
