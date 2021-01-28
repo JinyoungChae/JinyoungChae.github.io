@@ -190,6 +190,21 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
+section a{
+    color: #fff;
+
+}
+
+section a:hover{
+    font-style: bold;
+    font-size: large;
+
+}
+
+#bold{
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
