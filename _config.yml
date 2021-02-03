@@ -26,9 +26,9 @@ disqus_shortname: https-jinyoungchae-github-io
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: ffd6ee #18bc9c #80B3FF #fa78a3
+  primary: 97999B #18bc9c #80B3FF #fa78a3
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: ffd6ee #2c3e50 #FD6E8A
+  secondary: FFB3AB #F5DF4D #2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
