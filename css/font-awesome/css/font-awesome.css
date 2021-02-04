@@ -1564,3 +1564,14 @@
 .fa-bomb:before {
   content: "\f1e2";
 }
+.fa-handshake:before{
+  content:"\f2b5";
+}
+.fa-tshirt:before{
+  content:"\f553";
+}
+.fa-tie:before{
+  content:"\f508";
+}
+
+

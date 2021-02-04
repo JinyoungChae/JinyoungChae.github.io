@@ -18,7 +18,7 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-contact: contact
+contact: 
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
@@ -36,20 +36,20 @@ footer:
   copyright: WG.Shin && JY.Chae
   location: Location
   social: Around the Web
-  credits: Credits
+  credits: 마음전하기
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://watv.org
-  - title: worldmissionsocietyChurchofGod
-    url:
- # - title: stack-overflow
- #   url: http://stackoverflow.com/questions/tagged/jekyll
- # - title: bitbucket
- #   url: http://bitbucket.org/jekyll
- # - title: github
- #   url: http://github.com/jekyll
+- title: heart
+  url: http://watv.org
+- title: handshake
+  url: http://www.monamour.kr/
+- title: tshirt
+  url: https://www.allurebride.com/
+- title: tie
+  url: http://blog.naver.com/sejun222
+- title: camera
+  url: https://www.studiolim.net/
 
 # Postal address (add as many lines as necessary)
 address:
@@ -57,7 +57,7 @@ address:
   - line: 순천향로 624
 
 # Credits content
-#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: '신랑측 계좌: 카카오뱅크 3333170047972 신원균<br> 신부측 계좌: 농협 356-0672-9043-83 채진영'
 
 # Build settings
 markdown: kramdown
